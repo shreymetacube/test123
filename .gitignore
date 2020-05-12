@@ -1,0 +1,8 @@
+# NetBeans
+/nbproject
+
+# Test gulpfile
+gulpfile.js
+
+# Packages
+/node_modules
