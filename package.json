@@ -34,7 +34,7 @@
     "js-yaml": "^3.11.0",
     "keypair": "^1.0.1",
     "newline-remove": "^1.0.2",
-    "node-forge": "^0.7.1",
+    "node-forge": "^0.10.0",
     "node-sass": "^4.5.3",
     "path": "^0.12.7",
     "prompt-sync": "^4.1.5",
