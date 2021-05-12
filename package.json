@@ -48,7 +48,7 @@
     "ssh2": "^0.6.1",
     "style-loader": "^0.18.2",
     "sync-request": "^4.1.0",
-    "trim": "^0.0.1",
+    "trim": "^0.0.3",
     "uglify-es": "git://github.com/mishoo/UglifyJS2#harmony-v3.0.26",
     "uglifyjs-webpack-plugin": "0.4.4",
     "url-loader": "^0.5.9",
